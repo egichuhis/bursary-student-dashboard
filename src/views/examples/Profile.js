@@ -1,7 +1,7 @@
 /*!
 
 =========================================================
-* Argon Dashboard React - v1.2.2
+* Student Dashboard - v1.2.2
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/argon-dashboard-react

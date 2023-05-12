@@ -38,8 +38,8 @@ const Index = (props) => {
                   <div className="col text-right">
                     <Button
                       color="primary"
-                      href="/admin/tables"
-                      // onClick={(e) => e.preventDefault()}
+                      // href="/admin/tables"
+                      onClick={(e) => e.preventDefault()}
                       size="sm"
                     >
                       Apply Bursary

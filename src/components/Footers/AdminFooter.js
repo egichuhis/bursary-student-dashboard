@@ -20,15 +20,15 @@ const Footer = () => {
 
         <Col xl="6">
           <Nav className="nav-footer justify-content-center justify-content-xl-end">
-            <NavItem>
+            {/* <NavItem>
               <NavLink
-                href="https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md?ref=adr-admin-footer"
+                href=""
                 rel="noopener noreferrer"
                 target="_blank"
               >
                 MIT License
               </NavLink>
-            </NavItem>
+            </NavItem> */}
           </Nav>
         </Col>
       </Row>

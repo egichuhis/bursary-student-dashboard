@@ -3655,8 +3655,6 @@ input[type="button"].btn-block {
   display: block;
   min-height: 1.5rem;
   padding-left: 3rem;
-  print-color-adjust: exact;
-  -webkit-print-color-adjust: exact;
 }
 .custom-control-inline {
   display: inline-flex;
